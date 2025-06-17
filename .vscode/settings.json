@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "completed.sln"
+    "dotnet.defaultSolution": "complete 2.sln"
 }

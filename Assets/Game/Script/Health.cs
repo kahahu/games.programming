@@ -25,7 +25,7 @@ public class Health : MonoBehaviour
         Debug.Log(gameObject.name + "took damage: " + damage);
         Debug.Log(gameObject.name + " currentHealth: " + CurrentHealth);
 
-        //CameraShake.Instance.ShakeCamera();
+        CameraShake.Instance.ShakeCamera();
 
         CheckHealth();
     }
